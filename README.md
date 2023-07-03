@@ -17,7 +17,7 @@ Requirements: Visual Studio
 (You can add a font to make it look better)
 ```
 Step 1: Download all files and extract to a folder
-Step 2: Run ExternalMenu.vcxproj
+Step 2: Run Simple-Loader-Base.sln
 Step 3: Set Solution Config to Release
 Step 4: Go to Project->Properties
 Step 5: Change C++ Lang Standard to C++17
